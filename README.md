@@ -55,7 +55,7 @@ I'm a full-stack developer based in India who loves turning ideas into real, usa
 
 - ⚙️ Built with React, Node.js, Express & MongoDB
 - 🌐 Live at [stayzee.online](https://stayzee.online)
-- 📦 Full-stack: frontend, backend, database, deployment — all me
+- 📦 Full-stack: frontend, backend, database, deployment 
 
 ---
 

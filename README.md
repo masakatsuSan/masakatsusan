@@ -1,61 +1,68 @@
 <div align="center">
 
-# Hey, I'm Sumith Kumar 👋
+```
+███████╗██╗   ██╗███╗   ███╗██╗████████╗██╗  ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗
+██╔════╝██║   ██║████╗ ████║██║╚══██╔══╝██║  ██║    ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗
+███████╗██║   ██║██╔████╔██║██║   ██║   ███████║    █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝
+╚════██║██║   ██║██║╚██╔╝██║██║   ██║   ██╔══██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗
+███████║╚██████╔╝██║ ╚═╝ ██║██║   ██║   ██║  ██║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║
+╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-### Full-Stack Developer · Building products people actually use
+### Full-Stack Developer · Problem Solver · Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithkumar01/)
-[![Portfolio](https://img.shields.io/badge/stayzee.online-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://stayzee.online)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/masakatsuSan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sumithkumar01-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sumithkumar01)
+[![GitHub](https://img.shields.io/badge/GitHub-masakatsuSan-181717?style=flat-square&logo=github)](https://github.com/masakatsuSan)
+[![Stayzee](https://img.shields.io/badge/Live%20Project-Stayzee-orange?style=flat-square&logo=vercel)](https://stayzee.online)
 
 </div>
 
 ---
 
-## 🚀 About Me
+I enjoy building software that solves real problems.
 
-I'm a full-stack developer based in India who loves turning ideas into real, usable products. I built **[Stayzee](https://stayzee.online)** — a live product that solves a real problem — and I'm always working on something new.
+Most of my time is spent working across the full stack — designing APIs, building responsive frontends, optimizing databases, and shipping products from idea to deployment.
 
-- 🔭 Currently building and shipping [stayzee.online](https://stayzee.online)
-- 🌱 Always learning — currently deepening my TypeScript & system design skills
-- 💬 Ask me about React, Node.js, MongoDB, or building full-stack apps from scratch
-- ⚡ I believe in writing clean code, shipping fast, and iterating faster
+I'm particularly interested in **backend systems**, **scalable web applications**, **developer tools**, and **system design**.
 
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+Currently building and growing **[Stayzee](https://stayzee.online)**, while continuously learning and experimenting.
 
 ---
 
-## 🌟 Featured Project
+## 🛠️ What I Work With
 
-### [Stayzee](https://stayzee.online) — Live & Shipped
+```text
+Frontend   :  React · TypeScript · JavaScript · HTML · CSS
+Backend    :  Node.js · Express.js
+Database   :  MongoDB
+Languages  :  JavaScript · TypeScript · Python · C++
+Tools      :  Git · GitHub · VS Code · Linux
+```
 
-> A full-stack product I built from scratch and deployed to production.
+---
 
-- ⚙️ Built with React, Node.js, Express & MongoDB
-- 🌐 Live at [stayzee.online](https://stayzee.online)
-- 📦 Full-stack: frontend, backend, database, deployment 
+## 🚀 Featured Work
+
+### [Stayzee](https://stayzee.online) — Student Accommodation Discovery Platform
+
+> A production-ready platform connecting students with verified accommodation near colleges in West Bengal.
+
+| Area | What I built |
+|------|-------------|
+| Architecture | Full-stack REST API + React SPA |
+| Backend | Node.js · Express · MongoDB |
+| Features | Property listings, reviews, dashboards, Scout Program |
+| Status | 🟢 Live in production |
+
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB`
+
+---
+
+## 📚 Currently Learning
+
+- System Design & Distributed Systems
+- Advanced TypeScript
+- Backend Performance Optimization
 
 ---
 
@@ -63,23 +70,22 @@ I'm a full-stack developer based in India who loves turning ideas into real, usa
 
 <div align="center">
 
-![Sumith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masakatsuSan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masakatsuSan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masakatsuSan&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masakatsuSan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## ⚡ Beyond Coding
 
-If you're building something interesting or want to collaborate, hit me up:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sumithkumar01/)
-- 🌐 [stayzee.online](https://stayzee.online)
+`Competitive Programming` &nbsp; `Open Source` &nbsp; `Building Side Projects` &nbsp; `Learning by Shipping`
 
 ---
 
 <div align="center">
-<sub>⚡ Open to full-time roles & freelance projects · India 🇮🇳</sub>
+
+*"Build. Ship. Learn. Repeat."*
+
 </div>

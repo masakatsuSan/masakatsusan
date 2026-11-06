@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sumithkumar01-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/sumithkumar01)
 [![GitHub](https://img.shields.io/badge/GitHub-masakatsuSan-181717?style=flat-square&logo=github)](https://github.com/masakatsuSan)
-[![Stayzee](https://img.shields.io/badge/Live%20Project-Stayzee-orange?style=flat-square&logo=vercel)](https://stayzee.online)
+[![Stayzee](https://img.shields.io/badge/Live%20Project-Stayzee-orange?style=flat-square&logo=vercel)](https://stayzee.in)
 
 </div>
 
